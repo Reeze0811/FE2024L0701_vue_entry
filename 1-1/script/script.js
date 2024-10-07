@@ -1,4 +1,4 @@
 // JavaScript用ファイル
-new VTTCue({
+new Vue({
     el: '#app'
 });
